@@ -1,5 +1,13 @@
-#DSA Journey
+# DSA Journey
 
-#PYTHON CRASH COURSE
+# PYTHON CRASH COURSE
 
-- Variable #[DONE]
+- Variable # [DONE]
+- List [On Progress]
+
+# REACT Journey
+
+- Intro React [DONE]
+- useState [DONE]
+- useEffect [DONE]
+- Rendering List with Keys [DONE]
