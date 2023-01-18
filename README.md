@@ -10,4 +10,5 @@
 - Intro React [DONE]
 - useState [DONE]
 - useEffect [DONE]
+- useMemo [DONE]
 - Rendering List with Keys [DONE]
