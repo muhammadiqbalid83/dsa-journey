@@ -11,4 +11,5 @@
 - useState [DONE]
 - useEffect [DONE]
 - useMemo [DONE]
+- useContext [DONE]
 - Rendering List with Keys [DONE]
