@@ -22,3 +22,6 @@
 - Manipulating Arrays [DONE]
 - Operators [DONE]
 - Conditions [DONE]
+- Loops [DONE]
+- Objects [DONE]
+- Function
