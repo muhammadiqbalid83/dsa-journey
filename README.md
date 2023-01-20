@@ -24,4 +24,5 @@
 - Conditions [DONE]
 - Loops [DONE]
 - Objects [DONE]
-- Function
+- Functions [DONE]
+- Arrow Functions [DONE]
